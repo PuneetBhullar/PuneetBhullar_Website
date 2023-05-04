@@ -118,14 +118,14 @@ const Header = () => {
               </Link>
               <Link
                 onClick={() => setOpenMenu(false)}
-                href='/'
+                href='/project'
                 className={`nav-link inline-block `}
               >
                 Projects
               </Link>
               <Link
                 onClick={() => setOpenMenu(false)}
-                href='/'
+                href='/contact'
                 className={`nav-link inline-block `}
               >
                 Contact Me

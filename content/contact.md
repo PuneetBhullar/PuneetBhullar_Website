@@ -8,13 +8,24 @@ draft: false
 
 ## Get in touch
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+Please reach out if you would like to chat all things, from tech to travel to anything in-between. I look forward to connecting with you!
 
-### Location
+<Tabs>
 
-4140 Parker Rd. Allentown,
-New Mexico 31134
+<Tab name="LinkdIn">
 
-### Phone
+ www.linkedin.com/in/puneetbhullar
+ 
+</Tab>
 
-+88544767456
+<Tab name="Email">
+
+pmbhulla@uwaterloo.ca
+
+</Tab>
+
+</Tabs>
+
+
+
+
