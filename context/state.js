@@ -13,6 +13,7 @@ export const TaxonomySlugProvider = ({ children }) => {
       {children}
     </HeaderContext.Provider>
   );
+  
 };
 export const useHeaderContext = () => {
   return useContext(HeaderContext);

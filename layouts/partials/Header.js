@@ -95,6 +95,60 @@ const Header = () => {
               !openMenu && "hidden"
             } w-full justify-center md:flex md:w-auto md:space-x-2 md:order-1`}
           >
+            <li className="nav-item">
+              <Link
+                onClick={() => setOpenMenu(false)}
+                href='/'
+                className={`nav-link inline-block `}>
+                `Home
+              </Link>
+              <Link
+                onClick={() => setOpenMenu(false)}
+                href='/AboutMe'
+                className={`nav-link inline-block `}
+              >
+                About Me
+              </Link>
+              <Link
+                onClick={() => setOpenMenu(false)}
+                href='/Resume'
+                className={`nav-link inline-block `}
+              >
+                Resume
+              </Link>
+              <Link
+                onClick={() => setOpenMenu(false)}
+                href='/'
+                className={`nav-link inline-block `}
+              >
+                Projects
+              </Link>
+              <Link
+                onClick={() => setOpenMenu(false)}
+                href='/'
+                className={`nav-link inline-block `}
+              >
+                Contact Me
+              </Link>
+            </li>
+                  
+
+          </ul>
+        </nav>
+      </header>
+    </>
+  );
+};
+
+export default Header;
+
+/*
+          <ul
+            id="nav-menu"
+            className={`navbar-nav order-3 ${
+              !openMenu && "hidden"
+            } w-full justify-center md:flex md:w-auto md:space-x-2 md:order-1`}
+          >
             {navMenu.map((menu, i) => (
               <React.Fragment key={`menu-${i}`}>
                 {menu.hasChildren ? (
@@ -141,3 +195,4 @@ const Header = () => {
 };
 
 export default Header;
+*/

@@ -1,11 +1,15 @@
 {
   "main": [
     {
-      "name": "All Posts",
+      "name": "Home",
       "url": "/"
     },
     {
       "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "puneet",
       "url": "/contact"
     },
     {

@@ -1,8 +1,8 @@
 {
   "site": {
-    "title": "Hydrogen Nextjs",
+    "title": "Puneet Bhullar",
     "base_url": "/",
-    "favicon": "/images/developer.png"
+    "favicon": "/images/profile.png"
   },
 
   "settings": {
@@ -13,15 +13,15 @@
 
   "profile": {
     "name": "Puneet Bhullar",
-    "image": "/images/developer.png",
+    "image": "/images/profile.png",
     "designation": "Software developer",
-    "bio": "A Full Stack Front-end Developer based in New York. Meticulous web developer with over 2 years of front end experience and passion for responsive and mobile-first website design."
+    "bio": "Hi, I’m Puneet Bhullar, a University of Waterloo Computer Engineering student passionate about leveraging software to improve society."
   },
 
   "params": {
     "contact_form_action": "#",
     "tag_manager_id": "",
-    "copyright": "Copyright © 2022 a theme by [statichunt](https://statichunt.com)"
+    "copyright": ""
   },
 
   "metadata": {
